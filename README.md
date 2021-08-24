@@ -23,7 +23,7 @@ Note: Workspace settings for VSCode are included in this repo which will help yo
 
 ## Part 1
 
-- Populate table 1 with HR departments from [src/assets/data/HR.json]() (you can use [src/components/Table/Table.js]() as a basis for your table component)
+- Populate table 1 with HR departments from [src/assets/data/HR.json](src/assets/data/HR.json) (you can use [src/components/Table/Table.js](src/components/Table/Table.js) as a basis for your table component)
 - You should be able to select each Row of the table using a checkbox/radio button or similar
 
 ## Part 2
