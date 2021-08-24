@@ -33,11 +33,15 @@ Note: Workspace settings for VSCode are included in this repo which will help yo
   `https://randomuser.me/api/?seed={department}&results=10`
 - Using the selected department from table 1, table 2 should update displaying the employees from that category
 - The data should refresh without the need to refresh the page
-- Refreshing the page should still show the previous data selected and not revert to the default.
+- Refreshing the page should still show the previous data selected and not revert to the default
 
 ## Extra
 
 For extra points add extra style or components to enhance the look and feel of the tables
+
+## Submission
+
+Send a link to your github repo with the the finished task to jobs@connectmor.ie with the title "cm-fe-developer-task". 
 
 ---
 
