@@ -1,7 +1,8 @@
 # Connect Mór pre-interview task
 
-The following task will display your understanding of some basic react fundamentals such as states, contexts, effects, etc. It should take 2-3 hours to complete for a junior react developer. 
-The task is based of [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) template by Creative-Tim. We have included some documentation below the task description
+The following task will display your understanding of some basic react fundamentals such as states, contexts, effects, etc. It should take 2-3 hours to complete for a junior react developer.
+
+The task is based on the [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) template by Creative-Tim. We have included some documentation below the task description. 
 
 ## Requirements
 
