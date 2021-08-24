@@ -1,6 +1,6 @@
-# Connect Mor pre-interview task
+# Connect Mór pre-interview task
 
-The following task will display your understanding of some basic react fundamentals such as states, contexts, effects ETC. It should take approximatly 1 evening to complete for a moderatly competant react programmer
+The following task will display your understanding of some basic react fundamentals such as states, contexts, effects, etc. It should take 2-3 hours to complete for a junior react developer. 
 The task is based of [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) template by Creative-Tim. We have included some documentation below the task description
 
 ## Requirements
@@ -30,7 +30,7 @@ Note: Workspace settings for VSCode are included in this repo which will help yo
 
 - Display data from Users API in table 2 (choose any 5 or 6 columns that you think are useful)
   `https://randomuser.me/api/?seed={department}&results=10`
-- Using the selected department from table 1, table 2 should update displaying the empleyees from that category
+- Using the selected department from table 1, table 2 should update displaying the employees from that category
 - The data should refresh without the need to refresh the page
 - Refreshing the page should still show the previous data selected and not revert to the default.
 
