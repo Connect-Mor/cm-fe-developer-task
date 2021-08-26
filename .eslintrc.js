@@ -5,6 +5,13 @@ module.exports = {
     node: true,
     browser: true,
   },
+  rules: {  
+    'prettier/prettier': [
+    'error',
+    {
+      'endOfLine': 'auto',
+    }
+  ]},
   parserOptions: {
     ecmaVersion: 6,
     sourceType: "module",
