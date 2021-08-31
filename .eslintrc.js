@@ -5,15 +5,16 @@ module.exports = {
     node: true,
     browser: true,
   },
-  rules: {  
-    'prettier/prettier': [
-    'error',
-    {
-      'endOfLine': 'auto',
-    }
-  ]},
+  rules: {
+    "prettier/prettier": [
+      "error",
+      {
+        endOfLine: "auto",
+      },
+    ],
+  },
   parserOptions: {
-    ecmaVersion: 6,
+    ecmaVersion: 7,
     sourceType: "module",
     ecmaFeatures: {
       jsx: true,
