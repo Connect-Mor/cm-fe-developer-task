@@ -22,9 +22,10 @@ The task is based on the [Material Dashboard React](https://demos.creative-tim.c
 
 Note: Workspace settings for VSCode are included in this repo which will help you with eslinting errors
 
+
 ## Part 1
 
-- Populate table 1 with HR departments from [src/assets/data/HR.json](src/assets/data/HR.json) (you can use [src/components/Table/Table.js](src/components/Table/Table.js) as a basis for your table component)
+- In the "Table List" section Populate table 1 with HR departments from [src/assets/data/HR.json](src/assets/data/HR.json) (you can use [src/components/Table/Table.js](src/components/Table/Table.js) as a basis for your table component)
 - You should be able to select each Row of the table using a checkbox/radio button or similar
 
 ## Part 2
