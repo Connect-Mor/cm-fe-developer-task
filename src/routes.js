@@ -20,10 +20,12 @@ import Dashboard from "@material-ui/icons/Dashboard";
 import Person from "@material-ui/icons/Person";
 import LibraryBooks from "@material-ui/icons/LibraryBooks";
 import BubbleChart from "@material-ui/icons/BubbleChart";
+import PeopleIcon from "@material-ui/icons/People";
 // core components/views for Admin layout
 import DashboardPage from "views/Dashboard/Dashboard.js";
 import UserProfile from "views/UserProfile/UserProfile.js";
 import TableList from "views/TableList/TableList.js";
+import FilterEmployeeByDepartment from "views/TableList/FilterEmployeeByDepartment.js";
 import Typography from "views/Typography/Typography.js";
 import Icons from "views/Icons/Icons.js";
 
@@ -50,6 +52,14 @@ const dashboardRoutes = [
     rtlName: "قائمة الجدول",
     icon: "content_paste",
     component: TableList,
+    layout: "/admin",
+  },
+  {
+    path: "/EmployeeDepartmentView",
+    name: "Employee & Department",
+    rtlName: "قائمة الجدول",
+    icon: PeopleIcon,
+    component: FilterEmployeeByDepartment,
     layout: "/admin",
   },
   {
